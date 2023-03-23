@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cgwtools"]
+	path = cgwtools
+	url = https://github.com/cran/cgwtools
+	shallow = true
+	registered = true
+[submodule "fitConic"]
+	path = fitConic
+	url = https://github.com/cran/fitConic
+	shallow = true
+	registered = true
+[submodule "FunWithNumbers"]
+	path = FunWithNumbers
+	url = https://github.com/cran/FunWithNumbers
+	shallow = true
+	registered = true
+[submodule "go2bigq"]
+	path = go2bigq
+	url = https://github.com/cran/go2bigq
+	shallow = true
+	registered = true
+[submodule "ktsolve"]
+	path = ktsolve
+	url = https://github.com/cran/ktsolve
+	shallow = true
+	registered = true
+[submodule "Rfractran"]
+	path = Rfractran
+	url = https://github.com/cran/Rfractran
+	shallow = true
+	registered = true
+[submodule "vecsets"]
+	path = vecsets
+	url = https://github.com/cran/vecsets
+	shallow = true
+	registered = true
